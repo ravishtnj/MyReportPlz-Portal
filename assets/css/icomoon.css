@@ -1087,3 +1087,4 @@ you can use the generic selector below, but it's slower:
 .icon-ticket:before {
 	content: "\e15d";
 }
+ 
